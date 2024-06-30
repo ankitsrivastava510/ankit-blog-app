@@ -27,3 +27,4 @@ Added Redux Toolkit API
 
 For Styling
 - Chakra UI
+- CSS
